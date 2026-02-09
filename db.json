@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "name": "Kavya",
+      "email": "kavya@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Ann",
+      "email": "ann@gmail.com",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "events": [
+    {
+      "eventName": "Wedding",
+      "location": "Kochi",
+      "date": "2026-02-18",
+      "organizer": "Oak",
+      "status": "Upcoming",
+      "userEmail": "kavya@gmail.com",
+      "id": 1
+    }
+  ]
+}
